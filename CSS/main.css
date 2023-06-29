@@ -7,3 +7,6 @@ img, picture, video, canvas, svg {
   display: block;
   max-width: 100%;
 }
+table, td {
+  border-collapse: collapse;
+}
