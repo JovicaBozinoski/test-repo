@@ -10,4 +10,6 @@ img, picture, video, canvas, svg {
 a img {
 	border: none;
 	outline: none;
+table, td {
+  border-collapse: collapse;
 }
